@@ -31,5 +31,7 @@ School District Analysis
   - The percentages for the charter schools drop slightly because Thomas High is a charter school.
   - Everything else remains unchanged.
 
+  ![This is an image](https://github.com/edyu23/School_District_Analysis/blob/f8e686f76c0acd769dd3d6728a68895b1e5fd70a/School%20Type%20DF.png)
+
 ## Summary
 Looking over how omitting the 9th grader's grades at Thomas High School we see that there were several areas where leaving the values as NaNs made an impact. The largest impact we see is that the % passing math, % passing reading, and % overall passing each drop by ~25%. Another area of impact is that since Thomas High School is a charter school, the withheld information negatively impacts the performance of charter schools in our district analysis.
